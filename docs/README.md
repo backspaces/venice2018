@@ -1,3 +1,6 @@
-### Foo
+### github pages
 
-Bar
+* Create docs/ folder
+* add README.md markdown file
+
+
