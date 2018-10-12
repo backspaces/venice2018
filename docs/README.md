@@ -1,6 +1,7 @@
 ### Easy github pages
 
 * Create docs/ folder
-* add README.md markdown file
+* Add README.md markdown file
+* Use settings menu to create docs/ github page
 
 
